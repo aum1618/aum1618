@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** based in Rawalpindi/Islamabad, specializing in **React Native** and the **MERN stack**, with a strong focus on building AI-enabled solutions and highly scalable applications. I have over 3 years of freelance and professional experience, including scaling mobile apps to 10k+ active users with 99.9% crash-free sessions.
+I'm a **Full-Stack Software Engineer** based in Rawalpindi/Islamabad, specializing in **React Native** and the **MERN stack**. I focus on building AI-enabled solutions and highly scalable applications. I have over 3 years of freelance and professional experience, including scaling mobile apps to 10k+ active users with 99.9% crash-free sessions.
 
 When I'm not writing code, I'm probably grinding **NeetCode 75**, tweaking my **Arch Linux + Hyprland** config (Tokyo Night aesthetic all the way), or hitting the gym for my PPL routine.
 
