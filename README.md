@@ -70,14 +70,14 @@ When I'm not writing code, I'm probably grinding **NeetCode 75**, tweaking my **
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aum1618&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2335" alt="Umer's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aum1618&theme=tokyonight&hide_border=true&background=1f2335" alt="Umer's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aum1618&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2335&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Umer's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=aum1618&theme=tokyonight&hide_border=true&background=1f2335" alt="Umer's GitHub Streak" />
 </div>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aum1618&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2335" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aum1618&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2335&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
