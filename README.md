@@ -27,7 +27,7 @@ I'm a **Full-Stack Software Engineer** based in Rawalpindi/Islamabad, specializi
 When I'm not writing code, I'm probably grinding **NeetCode 75**, tweaking my **Arch Linux + Hyprland** config (Tokyo Night aesthetic all the way), or hitting the gym for my PPL routine.
 
 - 🎓 Currently pursuing a **BS in Computer Science** at FAST-NUCES (2023-2027).
-- 🚀 **Working on:** [Takhleeq](#), an autonomous content factory (Python, FFmpeg, LLMs), and running large-scale local AI models via Ollama & llama.cpp.
+- 🚀 **Working on:** **Takhleeq**, an autonomous content factory (Python, FFmpeg, LLMs), and running large-scale local AI models via Ollama & llama.cpp.
 - 🎯 **Current Focus:** Conquering NeetCode 75, landing high-impact open-source contributions, and experimenting with AI agents (MCP/n8n).
 - ⚡ **Fun Fact:** I built a custom Version Control System from scratch (`Gitlite`) in C++, and yes... *I use Arch btw.*
 
